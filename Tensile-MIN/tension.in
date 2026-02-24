@@ -4,7 +4,7 @@ atom_style      full
 bond_style      hybrid morse fene
 angle_style     cosine
 boundary        p p p
-read_data       Final-relax-1.data
+read_data       Final.data
 
 # Neighbor
 neighbor        0.3 bin
