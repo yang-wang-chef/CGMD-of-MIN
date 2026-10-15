@@ -4,7 +4,7 @@ atom_style      full
 bond_style      fene # hybrid morse fene
 angle_style     cosine
 boundary        p p p
-read_data       mixture.data
+read_data       Fixed-ring-control.model
 variable        TH equal 1.0
 
 # Neighbor
